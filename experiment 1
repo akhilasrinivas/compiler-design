@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<ctype.h>
 #include<string.h>
-void main(){
+int main(){
 int i,ic=0,m,cc=0,oc=0,j;
 char b[30],operators[30],identifiers[30],constants[30];
 printf("enter the string : ");
